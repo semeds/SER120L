@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;Coin.sideUp&apos; in &apos;Coin&apos;&#x0D;&#x0A;- Original project: &apos;Coin&apos;&#x0D;&#x0A;- Original element: &apos;Coin.sideUp&apos;&#x0D;&#x0A;- Getter method name: &apos;getSideUp&apos;&#x0D;&#x0A;- Setter method name: &apos;setSideUp&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;sideUp&apos;" flags="589830" getter="getSideUp" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{Coin.java[Coin^sideUp" insertion="-1" setter="setSideUp" stamp="1676869147465" version="1.0" visibility="1"/>
+</session>

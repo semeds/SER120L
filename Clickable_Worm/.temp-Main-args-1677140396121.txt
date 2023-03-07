@@ -1,0 +1,9 @@
+--module-path
+C:/Users/seane/Documents/javafx-sdk-19.0.2.1/lib/
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=UTF-8
+-classpath
+"C:\\Users\\seane\\Desktop\\Courses\\SER120L\\Clickable_Worm\\bin;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar;C:\\Users\\seane\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar;C:\\Users\\seane\\.p2\\pool\\plugins\\org.eclipse.fx.ide.css.jfx8_3.8.0.202204150904.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+application.Main

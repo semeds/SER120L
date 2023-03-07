@@ -1,0 +1,12 @@
+import java.security.SecureRandom;
+
+public class RandomRoll {
+	public static void main(String[] args) {
+		
+		SecureRandom randomNumber = new SecureRandom();
+		
+		int outcome = 1 + randomNumber.nextInt(6); //random number between 0 and 5, + 1 to scale it
+		System.out.println(outcome);
+	}
+
+}

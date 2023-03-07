@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19" fx:controller="application.SampleController">
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="Output" layoutX="62.0" layoutY="82.0" text="&quot;Hello World!&quot;" />
+            <TextField fx:id="Input" layoutX="26.0" layoutY="111.0" promptText="Enter Text Here." />
+            <Button fx:id="DisplayButton" layoutX="74.0" layoutY="137.0" mnemonicParsing="false" onAction="#DisplayText" text="Display Text" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

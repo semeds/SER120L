@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainCircle",
+            "request": "launch",
+            "mainClass": "MainCircle",
+            "projectName": "Circle"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "Clickable_Worm"
+        },
+        {
+            "type": "java",
+            "name": "MainCoin",
+            "request": "launch",
+            "mainClass": "MainCoin",
+            "projectName": "Coin"
+        },
+        {
+            "type": "java",
+            "name": "MainEmployee",
+            "request": "launch",
+            "mainClass": "MainEmployee",
+            "projectName": "Employee"
+        },
+        {
+            "type": "java",
+            "name": "MainEmployee1",
+            "request": "launch",
+            "mainClass": "MainEmployee1",
+            "projectName": "Employee"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldDialog",
+            "request": "launch",
+            "mainClass": "HelloWorldDialog",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldDialog2",
+            "request": "launch",
+            "mainClass": "HelloWorldDialog2",
+            "projectName": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "InvoiceTest",
+            "request": "launch",
+            "mainClass": "InvoiceTest",
+            "projectName": "Invoice"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "JavaFX-HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "Move_Circle"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "PleaseWork"
+        },
+        {
+            "type": "java",
+            "name": "RandomRoll",
+            "request": "launch",
+            "mainClass": "RandomRoll",
+            "projectName": "RollDie"
+        },
+        {
+            "type": "java",
+            "name": "Series1",
+            "request": "launch",
+            "mainClass": "Series1",
+            "projectName": "SER120Lecture"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "SceneBuilder-HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "MainTemperature",
+            "request": "launch",
+            "mainClass": "MainTemperature",
+            "projectName": "SubstanceProps"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "testing"
+        }
+    ]
+}
