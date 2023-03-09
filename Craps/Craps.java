@@ -1,12 +1,11 @@
-// Fig. 6.8: Craps.java
-// Craps class simulates the dice game craps.
-import java.security.SecureRandom;
-
-
 /*
- * IMPORTANT: Use Thread.sleep(1000); to simulate a clock tick
+ * Author: Sean Emede
+ * File: Craps.java
+ * Date: 3/9/2023
+ * Purpose: to simulate a game of craps 1 million times, and print out statistics concerning the game
+ * 			
  */
-
+import java.security.SecureRandom;
 
 public class Craps 
 {
@@ -162,6 +161,8 @@ public class Craps
 	int totalWins = win1 + win2 + win3 +win4 + win5 + win6 + win7 + win8 + win9 + win10 + moreThan10Rolls;
 	int totalLosses = loss1 + loss2 + loss3 + loss4 + loss5 + loss6 + loss7 + loss8 + loss9 + loss10 + lessThan10Rolls;
 	
+	// printing the statistics: total wins and losses, wins ad losses and win percentage, chances of winning, 
+	// average length of game
 	System.out.printf("Total Wins + Losses: %d\n", totalWins+totalLosses);
 	System.out.printf("Games with more than 10 rolls: %d\n", moreThan10Rolls);
 	System.out.printf("Games with less than 10 rolls: %d\n", lessThan10Rolls);
