@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Craps",
+            "request": "launch",
+            "mainClass": "Craps"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
