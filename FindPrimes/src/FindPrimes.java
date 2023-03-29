@@ -22,6 +22,7 @@ public class FindPrimes {
           // YOUR CODE BELOW
           Scanner input1 = new Scanner(System.in);
           System.out.print("Type the first start limit: ");
+          
           int firstLimitStart = input1.nextInt();
           
           Scanner input2 = new Scanner(System.in);
