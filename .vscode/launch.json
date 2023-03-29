@@ -6,6 +6,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort"
+        },
+        {
+            "type": "java",
+            "name": "Sorting1",
+            "request": "launch",
+            "mainClass": "Sorting1"
+        },
+        {
+            "type": "java",
+            "name": "FindPrimes",
+            "request": "launch",
+            "mainClass": "FindPrimes",
+            "projectName": "FindPrimes"
+        },
+        {
+            "type": "java",
             "name": "Craps",
             "request": "launch",
             "mainClass": "Craps"
