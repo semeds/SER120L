@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShapeTest",
+            "request": "launch",
+            "mainClass": "ShapeTest"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingList",
+            "request": "launch",
+            "mainClass": "StackUsingList"
+        },
+        {
+            "type": "java",
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "BubbleSort"

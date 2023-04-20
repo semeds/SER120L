@@ -6,7 +6,7 @@
 	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Login_Screen2/src&amp;lt;application{LoginMain.java[LoginMain&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Component_Animator/src&amp;lt;application{LoginMain.java[LoginMain&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Login_Screen/C:\/Users\/seane\/Documents\/javafx-sdk-19.0.2.1\/lib\/javafx.graphics.jar&amp;lt;com.sun.javafx.css.parser(Css2Bin.class[Css2Bin&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Component_Switcher/src&amp;lt;application{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Component_Animator/src&amp;lt;application{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Login_Screen/src&amp;lt;application{LoginMain.java[LoginMain&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
 		<section name="DialogBoundsSettings">
 			<item key="DIALOG_HEIGHT" value="650"/>
 			<item key="DIALOG_WIDTH" value="483"/>

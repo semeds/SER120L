@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#handleKeyPress" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <children>
+      <Circle fx:id="Head" fill="DODGERBLUE" layoutX="127.0" layoutY="120.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="Neck" fill="DODGERBLUE" layoutX="212.0" layoutY="125.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="Stomach1" fill="DODGERBLUE" layoutX="300.0" layoutY="125.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="Stomach2" fill="DODGERBLUE" layoutX="381.0" layoutY="150.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="Stomach3" fill="DODGERBLUE" layoutX="453.0" layoutY="191.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="End" fill="DODGERBLUE" layoutX="489.0" layoutY="241.0" onMouseDragged="#mouseDragged" onMousePressed="#mousePressed" radius="50.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>

@@ -19,4 +19,7 @@
 	</section>
 	<section name="NewWizardAction">
 	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="C:\Users\seane\Desktop\Courses\SER120L"/>
+	</section>
 </section>

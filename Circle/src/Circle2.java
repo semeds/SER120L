@@ -6,19 +6,19 @@
  */
 import java.lang.Math;
 
-public class Circle {
+public class Circle2 {
 	
 	//instance variables
 	private double radius;
 	private static final double pi = Math.PI;
 	
 	//default constructor
-	public Circle () {
+	public Circle2 () {
 		this.radius = 0.0;
 	}
 	
 	//overloaded constructor for specified radius
-	public Circle (double radius) {
+	public Circle2 (double radius) {
 		this.radius = radius;		
 	}
 	
