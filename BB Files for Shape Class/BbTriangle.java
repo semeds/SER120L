@@ -1,4 +1,4 @@
-public class BbTriangle extends Shape
+public class BbTriangle extends BbShape
 {
 	// assuming this is right-angle triangle
 	

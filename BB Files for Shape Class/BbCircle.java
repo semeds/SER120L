@@ -1,4 +1,4 @@
-public class BbCircle extends Shape
+public class BbCircle extends BbShape
 {
 	// assuming that any circle's width and height are equal
 	// assuming height/width is the diameter of the circle

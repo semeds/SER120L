@@ -1,4 +1,4 @@
-public class BbRectangle extends Shape
+public class BbRectangle extends BbShape
 {
 	
 	public BbRectangle()
