@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TicTacToeTest",
+            "request": "launch",
+            "mainClass": "TicTacToeTest"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootArray",
+            "request": "launch",
+            "mainClass": "SquareRootArray"
+        },
+        {
+            "type": "java",
+            "name": "PythagoreanTriple",
+            "request": "launch",
+            "mainClass": "PythagoreanTriple"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArrayList",
+            "request": "launch",
+            "mainClass": "ReverseArrayList"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToePrinterDriver",
+            "request": "launch",
+            "mainClass": "TicTacToePrinterDriver"
+        },
+        {
+            "type": "java",
             "name": "ShapeTest",
             "request": "launch",
             "mainClass": "ShapeTest"
