@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GoFishDemoTest",
+            "request": "launch",
+            "mainClass": "GoFishDemoTest"
+        },
+        {
+            "type": "java",
+            "name": "TestGoFish",
+            "request": "launch",
+            "mainClass": "TestGoFish"
+        },
+        {
+            "type": "java",
             "name": "TicTacToeTest",
             "request": "launch",
             "mainClass": "TicTacToeTest"
